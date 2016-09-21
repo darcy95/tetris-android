@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">No text yet.</string>
+    <string name="app_name">Tetris</string>
+	<string name="tetris_layout_text_text"></string>
+
+
+<string name="menu_prev_bg">Previous Wallpaper</string><string name="menu_next_bg">Next Wallpaper</string>
+
+<string name="menu_pause">Pause</string>
+<string name="tetris_score">0</string>
+</resources>
